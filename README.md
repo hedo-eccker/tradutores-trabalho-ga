@@ -1,5 +1,7 @@
 # Tradutores - Analisador Léxico utilizando JFlex.
-
+- Aluno: Hedo Eccker da Silva Júnior
+- Turma/Ano: Tradutores (Noturno, Terça-Feira) /2021-02
+<br /> <br />
 Neste repositório, encontra-se implementado um analisador léxico para a linguagem C, escrito utilizando Java com a biblioteca JFlex.
 
 ## Instruções para execução.
